@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="WinWebSolution" Logo="ExpressAppLogo">
+  <NavigationItems StartupNavigationItem="MyEvent_ListView">
+    <Items>
+      <Item Id="Default">
+        <Items>
+          <Item Id="Event_ListView" Removed="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="10.2.4.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>
