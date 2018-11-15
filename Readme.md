@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomFieldMappingsSchedulerListViewController.cs](./CS/WinWebSolution.Module.Web/CustomFieldMappingsSchedulerListViewController.cs) (VB: [CustomFieldMappingsSchedulerListViewController.vb](./VB/WinWebSolution.Module.Web/CustomFieldMappingsSchedulerListViewController.vb))
+* [CustomFieldMappingsSchedulerListViewController.cs](./CS/WinWebSolution.Module.Win/CustomFieldMappingsSchedulerListViewController.cs) (VB: [CustomFieldMappingsSchedulerListViewController.vb](./VB/WinWebSolution.Module.Win/CustomFieldMappingsSchedulerListViewController.vb))
+* [CustomFieldMappingsSchedulerListViewControllerBase.cs](./CS/WinWebSolution.Module/CustomFieldMappingsSchedulerListViewControllerBase.cs) (VB: [CustomFieldMappingsSchedulerListViewControllerBase.vb](./VB/WinWebSolution.Module/CustomFieldMappingsSchedulerListViewControllerBase.vb))
+* [Model.DesignedDiffs.xafml](./CS/WinWebSolution.Module/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/WinWebSolution.Module/Model.DesignedDiffs.xafml))
+* [MyEvent.cs](./CS/WinWebSolution.Module/MyEvent.cs) (VB: [MyEvent.vb](./VB/WinWebSolution.Module/MyEvent.vb))
+* [Updater.cs](./CS/WinWebSolution.Module/Updater.cs) (VB: [Updater.vb](./VB/WinWebSolution.Module/Updater.vb))
+<!-- default file list end -->
 # How to copy custom Event class fields when dragging appointments in the Scheduler Control
 
 
