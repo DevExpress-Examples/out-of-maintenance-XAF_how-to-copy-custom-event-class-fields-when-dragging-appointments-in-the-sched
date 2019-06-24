@@ -9,6 +9,9 @@
 * [Updater.cs](./CS/WinWebSolution.Module/Updater.cs) (VB: [Updater.vb](./VB/WinWebSolution.Module/Updater.vb))
 <!-- default file list end -->
 # How to copy custom Event class fields when dragging appointments in the Scheduler Control
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2159)**
+<!-- run online end -->
 
 
 <p>If you extended the default DevExpress.Persistent.BaseImpl.Event class or implemented your own class, supporting the DevExpress.Persistent.Base.IEvent interface, then you may face the situation when custom fields added to your class won't be copied when copying appointments in the scheduler control. To make it possible, you should manually map your custom data fields to appropriate appointment fields. The <a href="http://documentation.devexpress.com/#WindowsForms/CustomDocument5228">How to: Create a Custom Field for an Appointment</a> help topic provides more information on how to do this.<br />
