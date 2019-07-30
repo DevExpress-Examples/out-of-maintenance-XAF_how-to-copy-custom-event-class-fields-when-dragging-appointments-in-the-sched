@@ -10,7 +10,7 @@
 <!-- default file list end -->
 # How to copy custom Event class fields when dragging appointments in the Scheduler Control
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2159)**
+**[[Run Online]](https://codecentral.devexpress.com/e2159/)**
 <!-- run online end -->
 
 
